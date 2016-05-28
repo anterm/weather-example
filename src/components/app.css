@@ -1,0 +1,59 @@
+.container {
+  width: 960px;
+  margin: 30px auto;
+}
+
+.city_name {
+  font-weight: bold;
+  font-size: 1.3em;
+  font-style: normal;
+  color: #619658;
+}
+
+.loc_text {
+  color: #666;
+}
+
+.curr_city {
+  font-size: 1.3em;
+  margin: 0 5px;
+  font-weight: bold;
+}
+
+.curr_country {
+  color: #666;
+}
+
+table {
+  margin: 0 auto;
+  padding: 20px;
+}
+
+td {
+  font-style: italic;
+  padding: 5px 3px;
+}
+
+.block {
+  padding: 20px;
+  text-align: center;
+}
+
+input, .button {
+  padding: 5px 7px;
+  font-size: 1.1em;
+  border-radius: 3px;
+  border: 1px solid #366D2D;
+}
+
+input {
+  color: #6F6C66;
+  margin-right: 5px;
+}
+
+.button {
+  background: #619658;
+  color: white;
+  cursor: pointer;
+}
+
